@@ -159,8 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Archive.zip
-criminal.csv
-embdfaces.py
-libraries.py
 Procfile
 
