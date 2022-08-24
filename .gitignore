@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 Archive.zip
 Procfile
-
+Dockerfile
+docker-compose.yml
